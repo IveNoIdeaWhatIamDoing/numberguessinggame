@@ -1,0 +1,31 @@
+body {
+    background-color: #BDD9BF;
+    color: #031926; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.radio {
+    background-color: #61DAFB; 
+    border-color: #4eaec4; 
+}
+
+button {
+    background-color: #ECBEB4; 
+    color: #031926; 
+    font-size: 1.1em;
+    border-radius: 10%;
+    border: 1px;
+    padding: 1vh;
+}
+
+button:hover {
+    background-color: #e9b5aa;
+}
+
+#enterGuess {
+    width: 6vh;
+    padding: 2vh;
+    border-radius: 20%;
+    border: 1px;
+}
